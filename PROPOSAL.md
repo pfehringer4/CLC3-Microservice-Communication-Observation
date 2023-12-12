@@ -27,10 +27,10 @@ The project includes:
 
 ## Milestones
 
-1. Initial Setup and Planning: Selection of microservices, initial setup of OpenTelemetry and Jaeger, and detailed project planning
-2. Integration: Implementing OpenTelemetry in selected microservices
-3. Testing & Data Collection and Analysis: Testing integration with Jaeger to enable data collection, followed by thorough analysis to understand service interactions
-4. Documentation and Presentation Preparation: Finalizing documentation and preparing for the project presentation and live demo
+1. *Initial Setup and Planning:* Selection of microservices, initial setup of OpenTelemetry and Jaeger, and detailed project planning
+2. *Integration:* Implementing OpenTelemetry in selected microservices
+3. *Testing & Data Collection and Analysis:* Testing integration with Jaeger to enable data collection, followed by thorough analysis to understand service interactions
+4. *Documentation and Presentation Preparation:* Finalizing documentation and preparing for the project presentation and live demo
 
 ## Assignment of Responsibilities
 
