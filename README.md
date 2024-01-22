@@ -172,7 +172,7 @@ The Swagger UI for the Pokemon Service is accessible at `http://localhost:8080/p
 The Swagger UI for the Pokemon Service is accessible at `http://localhost:8080/teams/docs`.
 
 
-### Step 4: Accessing Jaeger UI
+### Step 3: Accessing Jaeger UI
 The Jaeger UI is accessible at `http://localhost:16686`.
 
 
