@@ -27,12 +27,6 @@
     - The effectiveness of Jaeger All-in-One for local testing and debugging purposes.
     - The use of tracing as a powerful tool for bug identification and understanding complex software interactions.
 
-### Download the Detailed Summary:
-You can download the detailed summary of the presentation as a Markdown file from the following link: [Download Summary](sandbox:/mnt/data/detailed_summary.md)
-
-Please feel free to [download the summary](sandbox:/mnt/data/detailed_summary.md) for a more comprehensive understanding of the presentation's content.
-
-
 
 # Integrating Jaeger  and OpenTelemtry into an existing Microservice Architecture
 
