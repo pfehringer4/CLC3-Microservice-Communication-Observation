@@ -9,8 +9,8 @@ This guide provides step-by-step instructions for integrating Jaeger into an exi
 
 ### Step 1: Cloning the Repository
 ```bash
-git clone [your-repository-url]
-cd [your-repository-directory]
+git clone https://github.com/GavriloviciEduard/fastapi-microservices
+cd fastapi-microservices
 ```
 
 ### Step 2: Update Docker-compose File for Jaeger
