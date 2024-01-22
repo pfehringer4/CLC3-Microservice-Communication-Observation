@@ -84,6 +84,17 @@ Ensure your application services are configured to communicate with Jaeger for t
 
 ### Manual Instrumentation in the Teams Service
 
+#### Install OpenTelemetry and Jaeger packages in Dockerfile
+```
+# Install OpenTelemetry and Jaeger packages
+RUN pip install opentelemetry-api \
+    opentelemetry-sdk \
+    opentelemetry-instrumentation-fastapi \
+    opentelemetry-instrumentation-tortoiseorm\
+    opentelemetry-instrumentation-httpx \
+    opentelemetry-exporter-jaeger
+```
+
 #### Setup in main.py
 ```python
 # Import statements
@@ -125,6 +136,17 @@ async def get_team(id: int):
 ```
 
 ### Automatic Instrumentation in the Pokemon Service
+
+#### Install OpenTelemetry and Jaeger packages in Dockerfile
+```
+# Install OpenTelemetry and Jaeger packages
+RUN pip install opentelemetry-api \
+    opentelemetry-sdk \
+    opentelemetry-instrumentation-fastapi \
+    opentelemetry-instrumentation-tortoiseorm\
+    opentelemetry-instrumentation-httpx \
+    opentelemetry-exporter-jaeger
+```
 
 #### Setup in main.py
 ```python
